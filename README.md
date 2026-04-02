@@ -15,7 +15,7 @@ To empirically examine how the Reserve Bank of India's monetary policy instrumen
 ```
 RBI_Inflation_MonetaryPolicy_Analysis/
 │
-├── RBI_Inflation_MonetaryPolicy_Analysis.ipynb   # Main research notebook
+├── RBI_Inflation_MonetaryPolicy_Analysis_ipynb.ipynb   # Main research notebook
 ├── data/
 │   ├── cpi_india_worldbank.csv                   # CPI data (World Bank)
 │   └── rbi_repo_rates.xlsx                       # Repo Rate data (RBI DBIE)
@@ -102,7 +102,7 @@ pip install numpy pandas matplotlib seaborn statsmodels openpyxl jupyter
 ```bash
 git clone https://github.com/Rushi9234/RBI-Inflation-Monetary-Policy-Analysis.git
 cd RBI-Inflation-Monetary-Policy-Analysis
-jupyter notebook RBI_Inflation_MonetaryPolicy_Analysis_ipynb.ipynba
+jupyter notebook RBI_Inflation_MonetaryPolicy_Analysis_ipynb.ipynb
 ```
 
 ---
