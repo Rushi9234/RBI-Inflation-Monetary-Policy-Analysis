@@ -100,9 +100,9 @@ pip install numpy pandas matplotlib seaborn statsmodels openpyxl jupyter
 ### Run the Notebook
 
 ```bash
-git clone https://github.com/rushi1914/RBI_Inflation_MonetaryPolicy_Analysis.git
-cd RBI_Inflation_MonetaryPolicy_Analysis
-jupyter notebook RBI_Inflation_MonetaryPolicy_Analysis.ipynb
+git clone https://github.com/Rushi9234/RBI-Inflation-Monetary-Policy-Analysis.git
+cd RBI-Inflation-Monetary-Policy-Analysis
+jupyter notebook RBI_Inflation_MonetaryPolicy_Analysis_ipynb.ipynba
 ```
 
 ---
@@ -142,8 +142,9 @@ jupyter notebook RBI_Inflation_MonetaryPolicy_Analysis.ipynb
 ## 👤 Author
 
 **Rushikesh Baban Kedar**
-Applicant — RBI Research Internship
-*MIT Academy of Engineering, Pune · B.Tech (2023–2027)*
+B.Tech Computer Science Engineering | MIT Academy of Engineering, Pune (2023–2027)
+Research Interests: Machine Learning, Statistical Modelling, Time-Series Analysis
+GitHub: https://github.com/Rushi9234
 
 ---
 
